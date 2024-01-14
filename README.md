@@ -1,5 +1,8 @@
 # Hi Everyone 👋  I'm Brachie Erentroy
-## FullStack Developer
+###  Passionate Fullstack Developer
+**Check out my open-source contributions, and let's connect! 💻✨**
+<br>
+<br>
 <br>
 
 <!--
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**Skills and Languages:**
+### Skills and Languages:
 <br>
 <br>
 
