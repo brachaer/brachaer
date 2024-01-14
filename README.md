@@ -3,7 +3,12 @@
 **Check out my open-source contributions, and let's connect! 💻✨**
 <br>
 <br>
-<br>
+ :rocket: :rocket:		 Recommended project to view: [Airport Simulator](https://github.com/brachaer/AirportSimulatorASP)
+ <br>
+### Skills and Languages:
+
+
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,js,html,css,nodejs,dotnet,express,mongodb,firebase,azure,ai,github,visualstudio,vscode&perline=8)](https://skillicons.dev)
 
 <!--
 **brachaer/brachaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,17 +31,6 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brachaer&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-<br>
-<br>
-<br>
-<br>
-
-### Skills and Languages:
-<br>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,js,html,css,nodejs,dotnet,express,mongodb,firebase,azure,ai,github,visualstudio,vscode&perline=5)](https://skillicons.dev)
-<br>
 <br>
 <br>
 
