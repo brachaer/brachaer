@@ -1,14 +1,20 @@
 # Hi Everyone 👋  I'm Brachie Erentroy
-###  Passionate Fullstack Developer
-**Check out my open-source contributions, and let's connect! 💻✨**
-<br>
-<br>
- :rocket: :rocket:		 Recommended project to view: [Airport Simulator](https://github.com/brachaer/AirportSimulatorASP)
- <br>
-### Skills and Languages:
+##  Passionate Software Developer, Clean Code Expert
+### Check out my open-source contributions, and let's connect! 💻✨
+###  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Let's connect on [LinkedIn](https://linkedin.com/in/brachierentroy) where I share insightful content and discussions on the principles of clean code.
+
+## Recent Projects:
+  :rocket:		 **Airport Simulator** | ASP .Net Core API | MVC | C# : [Airport Simulator ASP .Net Core](https://github.com/brachaer/AirportSimulatorASP)
 
 
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,js,html,css,nodejs,dotnet,express,mongodb,firebase,azure,ai,github,visualstudio,vscode&perline=8)](https://skillicons.dev)
+  :rocket:		**Covid Manager** | Node.JS | ReactJS | JavaScript : [Covid Server](https://github.com/brachaer/CovidServer)  [Covid Client](https://github.com/brachaer/CovidClient)
+
+
+  :rocket:		**CupidAI - Match Making App** | Node.JS | ReactNative | EXPO | TypeScript | OpenAI API : [CupidAI Server](https://github.com/brachaer/CupidAI)  [CupidAI Client](https://github.com/brachaer/CupidAIClient)
+
+## Skills and Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,js,html,css,materialui,nodejs,dotnet,express,react,vite,angular,mongodb,firebase,azure,ai,github,visualstudio,vscode&perline=6)](https://skillicons.dev)
 
 <!--
 **brachaer/brachaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
