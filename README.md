@@ -4,6 +4,10 @@
 ###  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Let's connect on [LinkedIn](https://linkedin.com/in/brachierentroy) where I share insightful content and discussions on the principles of clean code.
 
 ## Recent Projects:
+
+  :rocket:		 **Escape AI** | Python | Flask-SocketIO | LangChain | OpenAI API | MongoDB | ReactJS | MUI : [EscapeAI Python ReactJS](https://github.com/brachaer/EscapeAI)
+
+
   :rocket:		 **Airport Simulator** | ASP .Net Core API | MVC | C# : [Airport Simulator ASP .Net Core](https://github.com/brachaer/AirportSimulatorASP)
 
 
