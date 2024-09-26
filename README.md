@@ -5,7 +5,8 @@
 
 ## Recent Projects:
 
-  :rocket:		 **Escape AI** | Python | Flask-SocketIO | LangChain | OpenAI API | MongoDB | ReactJS | MUI : [EscapeAI Python ReactJS](https://github.com/brachaer/EscapeAI)
+  :rocket:		 **Escape AI** | Python | Flask-SocketIO | LangChain | OpenAI API | MongoDB | ReactJS | MUI : [EscapeAI Python ReactJS](https://github.com/brachaer/EscapeAI) 
+Try it out here: [Escape AI](escape-ai.vercel.app)
 
 
   :rocket:		 **Airport Simulator** | ASP .Net Core API | MVC | C# : [Airport Simulator ASP .Net Core](https://github.com/brachaer/AirportSimulatorASP)
