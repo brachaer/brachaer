@@ -1,48 +1,62 @@
-# Hi Everyone 👋  I'm Brachie Erentroy
-##  Passionate Software Developer, Clean Code Expert
-### Check out my open-source contributions, and let's connect! 💻✨
-###  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Let's connect on [LinkedIn](https://linkedin.com/in/brachierentroy) where I share insightful content and discussions on the principles of clean code.
+# Full-Stack Software Engineer
 
-## Recent Projects:
+Full-stack engineer specializing in React, NestJS, TypeScript, PostgreSQL, and cloud-native systems.
 
-  :rocket:		 **Escape AI** | Python | Flask-SocketIO | LangChain | OpenAI API | MongoDB | ReactJS | MUI : [EscapeAI Python ReactJS](https://github.com/brachaer/EscapeAI) 
-Try it out here: [Escape AI](escape-ai.vercel.app)
+I focus on building and maintaining production systems, improving system reliability, and delivering full-stack features across frontend, backend, and infrastructure layers.
 
+---
 
-  :rocket:		 **Airport Simulator** | ASP .Net Core API | MVC | C# : [Airport Simulator ASP .Net Core](https://github.com/brachaer/AirportSimulatorASP)
+## 🧠 Core Expertise
 
+- Full-stack development (React + NestJS)
+- Backend systems (REST APIs, business logic, PostgreSQL)
+- Cloud & DevOps (Kubernetes, OpenShift, CI/CD, ArgoCD)
+- Production debugging & system refactoring
+- End-to-end feature delivery
 
-  :rocket:		**Covid Manager** | Node.JS | ReactJS | JavaScript : [Covid Server](https://github.com/brachaer/CovidServer)  [Covid Client](https://github.com/brachaer/CovidClient)
+---
 
+## 🏢 Professional Experience
 
-  :rocket:		**CupidAI - Match Making App** | Node.JS | ReactNative | EXPO | TypeScript | OpenAI API : [CupidAI Server](https://github.com/brachaer/CupidAI)  [CupidAI Client](https://github.com/brachaer/CupidAIClient)
+Most of my production work is in **private enterprise systems** (non-public repositories).
 
-## Skills and Languages:
+Key responsibilities:
+- Production issue investigation and root-cause analysis
+- Full-stack feature development (frontend + backend)
+- System refactoring and architecture improvements
+- CI/CD pipeline management and deployments (Kubernetes/OpenShift)
+- Database design and optimization (PostgreSQL)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,ts,py,js,html,css,materialui,nodejs,dotnet,express,react,vite,angular,mongodb,firebase,azure,ai,github,visualstudio,vscode&perline=6)](https://skillicons.dev)
+---
 
-<!--
-**brachaer/brachaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Selected Projects
 
-Here are some ideas to get you started:
+### Escape AI
+AI-powered full-stack application  
+React · Flask-SocketIO · LangChain · OpenAI · MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brachaer&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brachaer&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+https://escape-ai.vercel.app
 
-<br>
-<br>
+---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+### Airport Simulator
+ASP.NET Core simulation system  
+C# · MVC · Backend architecture
+
+---
+
+### Covid Manager
+Full-stack web system  
+Node.js · React · REST APIs
+
+---
+
+### CupidAI
+AI matchmaking mobile app  
+React Native · Node.js · OpenAI API
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://linkedin.com/in/brachierentroy
