@@ -39,18 +39,6 @@ https://escape-ai.vercel.app
 
 ---
 
-### Airport Simulator
-ASP.NET Core simulation system  
-C# · MVC · Backend architecture
-
----
-
-### Covid Manager
-Full-stack web system  
-Node.js · React · REST APIs
-
----
-
 ### CupidAI
 AI matchmaking mobile app  
 React Native · Node.js · OpenAI API
